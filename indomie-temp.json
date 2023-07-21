@@ -1,0 +1,15 @@
+{
+  "contact": "random",
+  "templates": [
+    {
+      "name": "Indomie",
+      "sources": [
+        "https://raw.githubusercontent.com/budkalon/random/main/indomie.png"
+      ],
+      "x": 838,
+      "y": 467
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
