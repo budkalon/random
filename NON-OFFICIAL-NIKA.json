@@ -1,0 +1,64 @@
+{
+  "contact": "chelmu on discord",
+  "templates": [
+    {
+      "name": "One Piece sogeking art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/DevilFruits_v08.png"
+      ],
+      "x": 191,
+      "y": 637
+    },
+    {
+      "name": "One Piece gear 2 art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/Gear2_v05.png"
+      ],
+      "x": 254,
+      "y": 635
+    },
+    {
+      "name": "One Piece ChibiChopper",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/ChibiChopper_v04.png"
+      ],
+      "x": 274,
+      "y": 618
+    },
+    {
+      "name": "One Piece AsCE art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/AsCE_v04.png"
+      ],
+      "x": 241,
+      "y": 631
+    },
+    {
+      "name": "One Piece Nika art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/nika_v06.png"
+      ],
+      "x": 1625,
+      "y": 625
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "Uma Senko Template - Alliance via @Kariz",
+      "url": "http://ub8qbd.satdump.org/umasenko.json"
+    },
+    {
+      "name": "Oshi no ko Template - Alliance via @Kariz",
+      "url": "http://ub8qbd.satdump.org/oshinoko.json"
+    }, 
+    {
+      "name": "Community southright of us",
+      "url": "https://raw.githubusercontent.com/Dirty-Electro/stuff/main/superstonk.json"
+    },
+    {
+      "name": "Bluey Community via @Hats Off!",
+      "url": "https://raw.githubusercontent.com/jalenluorion/helpme/main/bluey.json"
+    }
+  ],
+  "blacklist": []
+}
